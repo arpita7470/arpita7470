@@ -1,28 +1,38 @@
-# Hi there, I'm MCA Student 👋
+# Hi there, I'm [Aapka Naam] 👋
 
-An ambitious MCA student and software development enthusiast who believes in discipline, consistency, and building real-world projects daily.
-
----
-
-### 💻 About Me:
-- 🎓 Currently pursuing my **MCA (Master of Computer Applications)**.
-- 🚀 Passionate about Web Development and solving complex programming logic.
-- 🕒 Fun Fact: I spend at least 1 hour daily sharpening my coding skills and typing speed!
-
----
-
-### 🛠️ Tech Stack & Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&width=450&lines=MCA+Student+🎯;Aspiring+Software+Engineer+💻;Consistent+Learner+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats:
+### 🎓 About Me
+- 🏫 Pursuing **Master of Computer Applications (MCA)**.
+- ⚡ **My Goal:** Building daily projects and mastering full-stack web development.
+- 🎯 **Current Focus:** Sharpening frontend skills and exploring backend architectures.
+
+---
+
+### 💻 Technologies & Tools I Use
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpita7470&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🚀 My Featured Projects
+| Project Name | Description | Live Link |
+| :--- | :--- | :--- |
+| **📁 Attendance System** | Automated attendance tracker for students. | [Live Demo 🌐](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/) |
+
+---
+
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak" height="150" />
 </p>
