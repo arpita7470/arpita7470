@@ -1,4 +1,4 @@
-# Hi there, I'm [Aapka Naam] 👋
+# Hi there, I'm Arpita Shukla 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&width=450&lines=MCA+Student+🎯;Aspiring+Software+Engineer+💻;Consistent+Learner+🚀" alt="Typing SVG" />
@@ -27,12 +27,13 @@
 ### 🚀 My Featured Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **📁 Attendance System** | Automated attendance tracker for students. | [Live Demo 🌐](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/) |
+| **📁 Attendance System** | Automated attendance tracker for students. | [Live Demo 🌐](https://arpita7470.github.io/Attendx/) |
+
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpita7470&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpita7470&theme=tokyonight" alt="Streak" height="150" />
 </p>
