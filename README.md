@@ -27,7 +27,7 @@
 ### 🚀 My Featured Projects
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **📁 Attendance System** | Automated attendance tracker for students. | [Live Demo 🌐](https://arpita7470.github.io/Attendx/) |
+| **📁 Attendance System** | Automated attendance tracker for students. | [Live Demo 🌐](https://attendx-kimy.onrender.com) |
 
 
 ---
